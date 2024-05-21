@@ -38,9 +38,9 @@ I am a third-year undergraduate student at the University of Toronto, St. George
 
 Feel free to reach out to me!
 
-- **Email:** [andyfeng1400@gmail.com]
-- **LinkedIn:** [[https://www.linkedin.com/in/andrewwfeng/]]
-- **Twitter:** [@andrewwfeng]
+- **Email:** andyfeng1400@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/andrewwfeng/
+- **Twitter:** @andrewwfeng
 
 ---
 
